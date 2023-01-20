@@ -135,9 +135,11 @@
     </edge>
 
     <tlLogic id="J3" type="static" programID="0" offset="0">
-        <phase duration="42" state="GGGGgrrrrrGGGGgrrrrr"/>
+        <!-- <phase duration="22.5" state="GGGGgrrrrrGGGGgrrrrr"/> -->
+		<phase duration="42" state="GGGGgrrrrrGGGGgrrrrr"/>
         <phase duration="3"  state="yyyyyrrrrryyyyyrrrrr"/>
-        <phase duration="42" state="rrrrrGGGGgrrrrrGGGGg"/>
+        <!-- <phase duration="97" state="rrrrrGGGGgrrrrrGGGGg"/> -->
+		<phase duration="42" state="rrrrrGGGGgrrrrrGGGGg"/>
         <phase duration="3"  state="rrrrryyyyyrrrrryyyyy"/>
     </tlLogic>
 
